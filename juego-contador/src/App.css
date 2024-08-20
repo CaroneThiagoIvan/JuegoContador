@@ -1,0 +1,21 @@
+html {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Jost", sans-serif;
+  font-size:14px;
+}
+
+p {
+  font-size: 24px;
+  font-weight: 500;
+  margin: -2em 0 2em;
+  text-align:center;
+  line-height:1.3em;
+  padding-top: 50%;
+}
+
+.count {
+  padding-top: 250%;
+}
